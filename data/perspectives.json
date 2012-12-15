@@ -1,0 +1,45 @@
+[
+  {
+    "view":"Languages",
+    "filters":[
+      "Ruby",
+      "Java",
+      "HTML and CSS",
+      "Javascript",
+      "Common Lisp",
+      "PHP"
+    ]
+  },
+  {
+    "view":"Frameworks",
+    "filters":[
+      "Rails",
+      "JAX-RS",
+      "Angular.js",
+      "Bootstrap",
+      "jQuery"
+    ]
+  },
+  {
+    "view":"Programs",
+    "filters":[
+      "NGINX",
+      "Passenger",
+      "MySQL",
+      "PostreSQL",
+      "JBoss App Server"
+    ]
+  },
+  {
+    "view":"Technologies",
+    "filters":[
+      "Linux",
+      "Source Control",
+      "Google Apps",
+      "Amazon Web Services",
+      "REST",
+      "AutoHotKey",
+      "Selenium"
+    ]
+  }
+]
