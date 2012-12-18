@@ -1,5 +1,5 @@
-(function () {
-  angular.module('resume', ['ngResource'])
+(function (converter) {
+  angular.module('resume', ['ngResource', 'ngSanitize'])
     .controller('ResumeController', ['$scope', 'Perspectives', 'Projects',
       function(scope, Perspectives, Projects) {
         scope.setActiveFilter = function(filter) {
@@ -34,5 +34,10 @@
       function(resource) {
         return resource('data/projects.json');
       }
-    ]);
-})();
+    ])
+    .filter('markdown', function(){
+      return function(markdown) {
+        return converter.makeHtml(markdown);
+      }
+    });
+})(new Markdown.Converter());
