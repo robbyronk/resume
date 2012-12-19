@@ -1,7 +1,7 @@
 [
   {
     "title":"ArgumentOctopus.com",
-    "summary":"Using mockup images supplied by a designer, built a Ruby on Rails website with a partner from HTML and CSS templates that I created using Foundation. Hosted on Amazon EC2, using NGINX, Passenger and PostgreSOL. Used Git for source control.",
+    "summary":"Using mock-up images supplied by a designer, built a Ruby on Rails website with a partner from HTML and CSS templates that I created using Foundation. Hosted on Amazon EC2, using NGINX, Passenger and PostgreSOL. Used Git for source control.",
     "keywords":"Amazon Web Services"
   },
   {
@@ -10,57 +10,52 @@
   },
   {
     "title":"Ministry Partner Giving Analysis - Cru",
-    "summary":"Initially tasked with implementing a monthly report to be delivered to all 9,000 Cru staff, integration issues arose in the analytics platform that was going to deliver the report. A co-worker and I designed a new platform using the Javascript Client-Side View paradigm. The new version of the report uses Java (JAX-RS, JBoss App Server) on the backend, fetching data from an Oracle Answers (BI Analytics tool) via SOAP. I wrote most of the JavaScript and worked with a designer on the HTML and CSS. To get started, I used Bootstrap and HTML5 Boilerplate, the Angular.js framework to manage communication with the server via REST and the D3.js library to generate SVG charts. GitHub and Trello were used to rapidly collaborate.",
-    "link":"http://github.com/robbyronk/mpga-d3/",
+    "summary":"Initially tasked with implementing a monthly report to be delivered to 9,000 Cru staff, integration issues arose in the analytics platform that was going to deliver the report. A co-worker and I designed a new platform using the Javascript Client-Side View paradigm. The new version of the report uses Java6 (JAX-RS, JBoss App Server) on the backend, fetching data from an Oracle Answers (BI Analytics tool) via SOAP. I wrote most of the JavaScript and worked with a designer on the HTML and CSS. To get started, I used Bootstrap and HTML5 Boilerplate, the Angular.js framework to manage communication with the server via REST and the D3.js library to generate SVG charts. GitHub and Trello were used to rapidly collaborate.",
     "keywords":"Source Control"
   },
   {
     "title":"Summary Data Test Harness - Cru",
-    "summary":"Wrote tool in Java to communicate with Oracle Answers and verify summarized tables against detail tables. Used Actors and Futures to achieve high concurrency and high throughput."
+    "summary":"Wrote tool in Java6 to communicate with Oracle Answers and verify summarized tables against detail tables. Used Actors and Futures to achieve high concurrency and high throughput."
   },
   {
     "title":"Google Apps Password Sync - Cru",
-    "summary":"Read Google API documentation and wrote Java to update a user's Google Apps password when their Single Sign-On (JASIG CAS) password is changed including an exponential backoff algorithm to prevent Denial of Service."
+    "summary":"Read Google API documentation and wrote Java6 to update a user's Google Apps password when their Single Sign-On (JASIG CAS) password is changed including an exponential backoff algorithm to prevent Denial of Service."
   },
   {
-    "title":"Mavenized 2 Legacy Java Applications - Cru",
-    "summary":"Converted 2 Java applications that were previously built using Eclipse to Maven and setup to be deployed with a single click using Bamboo."
+    "title":"Maven-ized 2 Legacy Java Applications - Cru",
+    "summary":"Converted 2 Java6 applications that were previously built using Eclipse to Maven and setup to be deployed with a single click using Bamboo."
   },
   {
-    "title":"ShortQut",
-    "summary":"Python, lead team. The project goal was to create a GPS navigation program that would learn the best route based on traffic patterns at certain times of the day."
-  },
-  {
-    "title":"Assembler for Simple Computer Architecture",
+    "title":"Assembler for Simple Computer Architecture - UCF",
     "summary":"Common Lisp, with partner. Collaborated using Darcs for source control."
   },
   {
-    "title":"2010 Google AI Competition Entry",
-    "summary":"Compteted against friends and strangers online, Common Lisp"
+    "title":"2010 Google AI Competition Entry - UCF",
+    "summary":"Competed against friends and strangers online, Common Lisp"
   },
   {
-    "title":"Networked (UDP) Multiplayer Game with AI",
-    "summary":"With partner, wrote the only multiplayer game in class. C, SDL, OpenGL, Common Lisp. Ran on Linux."
+    "title":"Networked (UDP) Multi-player Game with AI - UCF",
+    "summary":"With partner, wrote the only multi-player game in class. C, SDL, OpenGL, Common Lisp. Ran on Linux."
   },
   {
-    "title":"Multiplayer Text Editor",
-    "summary":"A group effort. The server was written in Common Lisp. The client was written in C, using Ncurses for the GUI and Embedded Common Lisp for the application logic and networking. The client was designed to run on the Linux command line. I was responsible for coordinating the GUI and ECL. Used Darcs for source control."
+    "title":"Multi-player Text Editor - UCF",
+    "summary":"A group effort. The server was written in Common Lisp. The client was written in C, using ncurses for the GUI and Embedded Common Lisp for the application logic and networking. The client was designed to run on the Linux command line. I was responsible for coordinating the GUI and ECL. Used Darcs for source control."
   },
   {
-    "title":"Event Booking Site",
-    "summary":"Written in PHP, this was my first site that other people depended on. Used at a 5000+ attendee conference in 2005, 2007, 2009 and 2011 for reserving rooms and checking out equipment."
+    "title":"Event Booking Site - Cru (2005)",
+    "summary":"Written in PHP and used a MySQL database, this was my first site that other people depended on. Used at a 5000+ attendee conference in 2005, 2007, 2009 and 2011 for reserving rooms and checking out equipment."
   },
   {
-    "title":"Tiny Time Tracker",
+    "title":"Tiny Time Tracker - UCF",
     "summary":"PHP based time tracker with a MySQL database. Total length was around 50 lines. I wrote it for a group project in school that I was leading."
   },
   {
-    "title":"Common Lisp Statistics Package",
+    "title":"Common Lisp Statistics Package - UCF",
     "summary":"Studied for Statistics II class by writing a statistics package."
   },
   {
     "title":"Automated Web Browser Testing - Cru",
-    "summary":"Used Selenium to test Java web application that I inherited maintainance of."
+    "summary":"Used Selenium to test Java6 web application that I inherited maintenance of."
   },
   {
     "title":"Conference Registration System - Cru",
@@ -73,10 +68,10 @@
   },
   {
     "title":"Automated Tasks with AutoHotKey",
-    "summary":"Created my own keyboard shortcuts for tedious tasks in environments that did not have keyboard shortcuts and gave a presentation on it."
+    "summary":"Created my own keyboard shortcuts for tedious tasks in environments that did not have keyboard shortcuts and gave a presentation at Cru on it."
   },
   {
-    "title":"Visualization of Simulated Ecosystem",
-    "summary":"Wrote ecosystem simulation for class, designed to run on 64 node super-computer. Programmed in C, using the MPI library for parallezation. For extra credit, I created a visualization of the ecosystem over time by processing the output of the C program with a CLI PHP script and output PNG images. I then used MPlayer to turn the PNGs into an AVI."
+    "title":"Visualization of Simulated Ecosystem - UCF",
+    "summary":"Wrote ecosystem simulation for class, designed to run on 64 node super-computer. Programmed in C, using the MPI library for parallelization. For extra credit, I created a visualization of the ecosystem over time by processing the output of the C program with a CLI PHP script and output PNG images. I then used MPlayer to turn the PNGs into an AVI."
   }
 ]

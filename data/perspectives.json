@@ -3,7 +3,7 @@
     "view":"Languages",
     "filters":[
       "Ruby",
-      "Java",
+      "Java6",
       "HTML and CSS",
       "Javascript",
       "Common Lisp",
@@ -13,7 +13,7 @@
   {
     "view":"Frameworks",
     "filters":[
-      "Rails",
+      "Ruby on Rails",
       "JAX-RS",
       "Angular.js",
       "Bootstrap",
