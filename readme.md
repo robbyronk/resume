@@ -1,28 +1,22 @@
 # Robby Ronk
 
+Software Developer
+
 ## Employment History
 
-### Weta Digital
-
-https://www.wetafx.co.nz
+### [Weta Digital](https://www.wetafx.co.nz)
 
 Jan 2016 - Present
 
-### Showroom Logic
-
-https://www.purecars.com/showroomlogic-acquisition/
+### [Showroom Logic](https://www.purecars.com/showroomlogic-acquisition/)
 
 Sep 2013 - Dec 2015 (remote)
 
-### Cru
-
-https://www.cru.org
+### [Cru](https://www.cru.org)
 
 Jan 2011 - Sep 2013
 
-### YachtCloser
-
-https://www.yachtcloser.com
+### [YachtCloser](https://www.yachtcloser.com)
 
 Aug 2012 - Dec 2012 (remote, part-time)
 
@@ -40,6 +34,7 @@ Aug 2012 - Dec 2012 (remote, part-time)
 - Automation: Ansible, Chef, Vagrant, AutoHotKey, Selenium, Emmet
 - Topics: UX, HTTP, DNS, REST, CORS, AuthN/AuthZ, MVC, Concurrency, Asynchronous Programming, Functional Programming,
 Continuous Integration, Information Retrieval
+- Interests: Interface Design, Data Visualization, Statistics, Motorsports
 
 ## Education
 
