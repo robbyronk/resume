@@ -1,6 +1,12 @@
 # Robby Ronk
 
-Software Developer
+I'm interested in joining a small team to mentor junior developers 
+and deliver quality user experiences.
+I can work at all layers of the stack and thrive in front-end.
+I've led two major technology changes on the front-end, 
+bringing AngularJS to my team in 2012 and React to my team in 2016.
+In addition to personal growth, I value open communication and making
+the world a better place.
 
 ## Employment History
 
@@ -77,4 +83,4 @@ wrapper around GData libraries from Google.
 Wrote ecosystem simulation for Concepts of Parallel and Distributed Processing class, designed to run on 64 node 
 beowulf cluster. Programmed in C, using the OpenMPI library for parallelization. For extra credit in the class, I 
 created a visualization of the ecosystem over time by processing the output of the C program with a CLI PHP script 
-which produced PNG images using the GD Library. I then used MPlayer to turn the PNGs into a video.    
+which produced PNG images using the GD Library. I then used MPlayer to turn the PNGs into a video.
