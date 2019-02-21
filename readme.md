@@ -1,6 +1,6 @@
 # Robby Ronk
 
-I'm interested in joining a small team to mentor junior developers 
+I'm interested in joining a small team to mentor developers of all skill levels
 and deliver quality user experiences.
 I can work at all layers of the stack and thrive in front-end.
 I've led two major technology changes on the front-end, 
