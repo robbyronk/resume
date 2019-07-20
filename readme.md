@@ -46,6 +46,13 @@ Continuous Integration, Information Retrieval, OWASP
 
 Bachelor of Science in Computer Science from the University of Central Florida, Dec 2010
 
+## Weta Digital
+- Deployed 5 significant projects, 3 as technical lead (under NDA)
+- Negotiated the introduction of React within a large team
+- Mentored peer developers with training sessions, pairing and code reviews
+- Developed front end coding standards and enforced them with CI
+- Currently acting team lead for a small team
+
 ## Significant Projects
 
 ### Data Display for Sim Racing - Personal Project
