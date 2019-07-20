@@ -4,7 +4,7 @@ I'm interested in joining a small team to mentor developers of all skill levels
 and deliver quality user experiences.
 I can work at all layers of the stack and thrive in front-end.
 I've led two major technology changes on the front-end, 
-bringing AngularJS to my team in 2012 and React to my team in 2016.
+bringing AngularJS to my team in 2012 and React/Redux/Sagas to my team in 2016.
 In addition to personal growth, I value open communication and making
 the world a better place.
 
@@ -28,18 +28,18 @@ Aug 2012 - Dec 2012 (remote, part-time)
 
 ## Skills
 
-- Top Languages: JavaScript, CSS/Sass, Python, PHP, Elixir
-- Other Languages: Ruby, Java, Lisp, C
+- Top Languages: JavaScript, Ruby, Python, PHP, Elixir
+- Other Languages: Java, Lisp, C
 - Frameworks: React/Redux, AngularJS, Laravel, Rails
 - Libraries: Lodash, Redux Sagas, Styled Components, Bootstrap, React Router, Webpack, Babel
 - Editors: Vim, IntelliJ/IDEA
-- Operating Systems: Linux, Windows
+- Operating Systems: Linux, Windows, MacOS
 - Databases: Postgres, MySQL
 - Services: AWS, GitLab, GitHub, CAS SSO
-- Testing: Mocha, Chai, ExUnit, Nosetests
+- Testing: Mocha, Chai, Minitest, ExUnit, Nosetests
 - Automation: Ansible, Chef, Vagrant, AutoHotKey, Selenium, Emmet
 - Topics: UX, HTTP, DNS, REST, CORS, AuthN/AuthZ, MVC, Concurrency, Asynchronous Programming, Functional Programming,
-Continuous Integration, Information Retrieval
+Continuous Integration, Information Retrieval, OWASP
 - Interests: Interface Design, Data Visualization, Statistics, Motorsports
 
 ## Education
