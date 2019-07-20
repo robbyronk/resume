@@ -1,11 +1,11 @@
 # Robby Ronk
 
-I'm interested in joining a small team to mentor developers of all skill levels
+I'm interested in joining a dynamic team to mentor developers of all skill levels
 and deliver quality user experiences.
 I can work at all layers of the stack and thrive in front-end.
 I've led two major technology changes on the front-end, 
 bringing AngularJS to my team in 2012 and React/Redux/Sagas to my team in 2016.
-In addition to personal growth, I value open communication and making
+In addition to personal and professional growth, I value open communication and making
 the world a better place.
 
 ## Employment History
@@ -36,7 +36,7 @@ Aug 2012 - Dec 2012 (remote, part-time)
 - Operating Systems: Linux, Windows, MacOS
 - Databases: Postgres, MySQL
 - Services: AWS, GitLab, GitHub, CAS SSO
-- Testing: Mocha, Chai, Minitest, ExUnit, Nosetests
+- Testing: Mocha, Chai, Minitest, ExUnit
 - Automation: Ansible, Chef, Vagrant, AutoHotKey, Selenium, Emmet
 - Topics: UX, HTTP, DNS, REST, CORS, AuthN/AuthZ, MVC, Concurrency, Asynchronous Programming, Functional Programming,
 Continuous Integration, Information Retrieval, OWASP
