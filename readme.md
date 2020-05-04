@@ -10,9 +10,14 @@ the world a better place.
 
 ## Employment History
 
+### [Ackama Consulting](https://www.ackama.com)
+#### On-site with [InternetNZ](https://internetnz.nz)
+
+Oct 2019 - Apr 2020
+
 ### [Weta Digital](https://www.wetafx.co.nz)
 
-Jan 2016 - Present
+Jan 2016 - Sep 2019
 
 ### [Showroom Logic](https://www.purecars.com/showroomlogic-acquisition/)
 
@@ -34,26 +39,34 @@ Aug 2012 - Dec 2012 (remote, part-time)
 - Libraries: Lodash, Redux Sagas, Styled Components, Bootstrap, React Router, Webpack, Babel
 - Editors: Vim, IntelliJ/IDEA
 - Operating Systems: Linux, Windows, MacOS
-- Databases: Postgres, MySQL
+- Databases: Postgres, PostGIS, MySQL
 - Services: AWS, GitLab, GitHub, CAS SSO
-- Testing: Mocha, Chai, Minitest, ExUnit
-- Automation: Ansible, Chef, Vagrant, AutoHotKey, Selenium, Emmet
+- Automation: Ansible, Vagrant, AutoHotKey, Selenium, Emmet
 - Topics: UX, HTTP, DNS, REST, CORS, AuthN/AuthZ, MVC, Concurrency, Asynchronous Programming, Functional Programming,
-Continuous Integration, Information Retrieval, OWASP
+Continuous Integration, OWASP, GIS
 - Interests: Interface Design, Data Visualization, Statistics, Motorsports
 
 ## Education
 
 Bachelor of Science in Computer Science from the University of Central Florida, Dec 2010
 
+## Internet NZ
+- Lead a team of 3 through a time of transition
+- Encouraged learning and enhancing security and coding standards
+- Deployed a prototype Digital Identity platform and digital wallet
+
 ## Weta Digital
 - Deployed 5 significant projects, 3 as technical lead (under NDA)
 - Negotiated the introduction of React within a large team
 - Mentored peer developers with training sessions, pairing and code reviews
 - Developed front end coding standards and enforced them with CI
-- Currently acting team lead for a small team
 
 ## Significant Projects
+
+### [BroadbandMap.NZ](https://broadbandmap.nz/availability) - Internet NZ
+- Solved layout issues leading to better usability on a wider variety of devices
+- Solved GIS data pipeline artifacts which decreased bandwidth used, decreased render times and produced correct results
+- Documented the details of the GIS data pipeline, allowing any developer to tackle issues in it
 
 ### Data Display for Sim Racing - Personal Project
 - Used Elixir server to accept and process binary UDP packets from a racing video game
